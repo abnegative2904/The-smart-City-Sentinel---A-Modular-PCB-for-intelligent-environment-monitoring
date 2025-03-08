@@ -2,6 +2,9 @@
 
 ![PCB Design](https://github.com/abnegative2904/The-smart-City-Sentinel---A-Modular-PCB-for-intelligent-environment-monitoring/blob/main/pcb-design.jpg?raw=true)
 
+##Footprints are missing for some components
+![SCHEMATIC](https://github.com/user-attachments/assets/c090c716-13ba-4904-8b2f-326504511ece)
+
 ## 1. Power Supply:
    - The system is powered by a solar panel and a rechargeable battery, managed by a TP4056 module.
    - A voltage booster ensures components needing 5V are powered correctly.
