@@ -1,6 +1,6 @@
 # The Smart City Sentinel - A Modular PCB for Intelligent Environment Monitoring
 
-![PCB Design]([https://raw.githubusercontent.com/abnegative2904/The-smart-City-Sentinel---A-Modular-PCB-for-intelligent-environment-monitoring/main/pcb-design.jpg](https://github.com/abnegative2904/The-smart-City-Sentinel---A-Modular-PCB-for-intelligent-environment-monitoring/blob/main/pcb-design.jpg?raw=true))
+![PCB Design](https://github.com/abnegative2904/The-smart-City-Sentinel---A-Modular-PCB-for-intelligent-environment-monitoring/blob/main/pcb-design.jpg?raw=true)
 
 ## 1. Power Supply:
    - The system is powered by a solar panel and a rechargeable battery, managed by a TP4056 module.
